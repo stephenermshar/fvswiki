@@ -50,6 +50,7 @@ body {
   }
   &> main {
     img {
+      width: 100%;
       max-width: 500px !important;
       margin: 0 auto 0;
       display: block;
