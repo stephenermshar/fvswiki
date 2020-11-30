@@ -37,7 +37,7 @@ blockquote {
 // Custom Styles
 
 body {
-  &> section.page-header {
+  &> header.page-header {
     padding: 0px 16px 0px;
     text-align: left;
     &> .project-name > a {
