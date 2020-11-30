@@ -40,7 +40,11 @@ body {
   &> section.page-header {
     padding: 0px 16px 0px;
     text-align: left;
-    &> a, &> h2 {
+    &> .project-name > a {
+      color: unset;
+      text-decoration: none;
+    }
+    &> .project-tagline {
       display: none;
     }
   }
