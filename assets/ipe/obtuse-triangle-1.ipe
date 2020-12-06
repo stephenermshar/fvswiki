@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE ipe SYSTEM "ipe.dtd">
 <ipe version="70212" creator="Ipe 7.2.13">
-<info created="D:20201205181904" modified="D:20201205181904"/>
+<info created="D:20201205181904" modified="D:20201205182907"/>
 <ipestyle name="basic">
 <symbol name="arrow/arc(spx)">
 <path stroke="sym-stroke" fill="sym-stroke" pen="sym-pen">
@@ -254,16 +254,10 @@ h
 <page>
 <layer name="alpha"/>
 <view layers="alpha" active="alpha"/>
-<path layer="alpha" stroke="black" rarrow="normal/normal">
+<path layer="alpha" stroke="black">
 320 640 m
 64 640 l
 </path>
-<path stroke="black" arrow="normal/normal">
-256 544 m
-256 704 l
-</path>
-<text transformations="translations" pos="256 704" stroke="black" type="label" width="8.837" height="7.41" depth="3.35" valign="baseline" size="LARGE" style="math">y</text>
-<text transformations="translations" pos="320 640" stroke="black" type="label" width="9.579" height="7.412" depth="0" valign="baseline" size="LARGE" style="math">x</text>
 <path stroke="black">
 256 640 m
 96 576 l
@@ -277,7 +271,7 @@ h
 48 0 0 48 256 640 211.425 622.193 a
 </path>
 <text transformations="translations" pos="288.416 676.738" stroke="black" type="label" width="8.324" height="11.955" depth="0" valign="baseline" size="LARGE" style="math">\theta</text>
-<text matrix="1 0 0 1 -12.257 -0.317972" transformations="translations" pos="96.2004 608.339" stroke="black" type="label" width="8.849" height="7.412" depth="0" valign="baseline" size="LARGE" style="math">a</text>
+<text matrix="1 0 0 1 -12.4086 -4.84348" transformations="translations" pos="96.2004 608.339" stroke="black" type="label" width="8.849" height="7.412" depth="0" valign="baseline" size="LARGE" style="math">a</text>
 <text matrix="1 0 0 1 75.3578 34.4819" transformations="translations" pos="96.2004 608.339" stroke="black" type="label" width="7.167" height="11.955" depth="0" valign="baseline" size="LARGE" style="math">b</text>
 <text matrix="1 0 0 1 76.8401 -11.8193" transformations="translations" pos="96.2004 608.339" stroke="black" type="label" width="7.255" height="7.412" depth="0" valign="baseline" size="LARGE" style="math">c</text>
 <text matrix="1 0 0 1 12.5992 -6.56536" transformations="translations" pos="83.7662 684.148" stroke="black" type="label" width="73.77" height="13.745" depth="6.94" valign="baseline" size="LARGE" style="math">\tan \theta = \frac{-a}{-b}</text>
