@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE ipe SYSTEM "ipe.dtd">
 <ipe version="70212" creator="Ipe 7.2.13">
-<info created="D:20201204085200" modified="D:20201205170246"/>
+<info created="D:20201205164308" modified="D:20201205172236"/>
 <ipestyle name="basic">
 <symbol name="arrow/arc(spx)">
 <path stroke="sym-stroke" fill="sym-stroke" pen="sym-pen">
@@ -254,33 +254,49 @@ h
 <page>
 <layer name="alpha"/>
 <view layers="alpha" active="alpha"/>
-<path layer="alpha" stroke="black">
-128 640 m
-384 640 l
-384 768 l
-128 640 l
+<use layer="alpha" name="mark/disk(sx)" pos="192 576" size="normal" stroke="black"/>
+<path stroke="black" arrow="normal/normal">
+160 576 m
+336 576 l
+</path>
+<path stroke="black" arrow="normal/normal">
+192 544 m
+192 720 l
+</path>
+<text transformations="translations" pos="336 576" stroke="black" type="label" width="9.579" height="7.412" depth="0" valign="baseline" size="LARGE" style="math">x</text>
+<text transformations="translations" pos="192 720" stroke="black" type="label" width="8.837" height="7.41" depth="3.35" valign="baseline" size="LARGE" style="math">y</text>
+<path stroke="black">
+192 576 m
+289.738 673.701 l
 </path>
 <path stroke="black">
-368 656 m
-368 640 l
-384 640 l
-384 656 l
+192 576 m
+312.52 645.748 l
+</path>
+<path stroke="black">
+192 576 m
+261.132 695.664 l
+</path>
+<use name="mark/disk(sx)" pos="256.031 686.833" size="normal" stroke="black"/>
+<use name="mark/disk(sx)" pos="282.527 666.492" size="normal" stroke="black"/>
+<use name="mark/disk(sx)" pos="302.785 640.114" size="normal" stroke="black"/>
+<text matrix="1 0 0 1 -2.49675 6.86325" transformations="translations" pos="263.578 688.194" stroke="black" type="label" width="121.012" height="17.566" depth="7.66" valign="baseline" size="LARGE" style="math">\left(\frac{1}{2},\frac{\sqrt{3}}{2}\right)\quad 60^\circ = \frac{\pi}{3}</text>
+<text matrix="1 0 0 1 31.5086 -25.8446" transformations="translations" pos="263.578 688.194" stroke="black" type="label" width="130.975" height="17.566" depth="7.66" valign="baseline" size="LARGE" style="math">\left(\frac{\sqrt{2}}{2},\frac{\sqrt{2}}{2}\right)\quad 45^\circ = \frac{\pi}{4}</text>
+<text matrix="1 0 0 1 49.9179 -59.5606" transformations="translations" pos="263.578 688.194" stroke="black" type="label" width="121.012" height="17.566" depth="7.66" valign="baseline" size="LARGE" style="math">\left(\frac{\sqrt{3}}{2}, \frac{1}{2}\right)\quad 30^\circ = \frac{\pi}{6}</text>
+<path stroke="black">
+312 532 m
+312 532 l
+312 532 l
+312 532 l
 h
 </path>
-<use name="mark/disk(sx)" pos="128 640" size="normal" stroke="black"/>
-<use name="mark/disk(sx)" pos="384 768" size="normal" stroke="black"/>
-<use name="mark/disk(sx)" pos="384 640" size="normal" stroke="black"/>
-<text matrix="1 0 0 1 8 0" transformations="translations" pos="240 712" stroke="black" type="label" width="7.255" height="7.412" depth="0" valign="baseline" size="LARGE" style="math">c</text>
-<text matrix="1 0 0 1 152 -16" transformations="translations" pos="240 712" stroke="black" type="label" width="7.255" height="7.412" depth="0" valign="baseline" size="LARGE" style="math">c</text>
-<text transformations="translations" pos="392 696" stroke="black" type="label" width="8.849" height="7.412" depth="0" valign="baseline" size="LARGE" style="math">a</text>
-<text matrix="1 0 0 1 24 -88" transformations="translations" pos="240 712" stroke="black" type="label" width="7.167" height="11.955" depth="0" valign="baseline" size="LARGE" style="math">b</text>
-<text matrix="1 0 0 1 144 64" transformations="translations" pos="240 712" stroke="black" type="label" width="13.675" height="11.764" depth="0" valign="baseline" size="LARGE" style="math">B</text>
-<text matrix="1 0 0 1 144 -88" transformations="translations" pos="240 712" stroke="black" type="label" width="13.296" height="11.764" depth="0" valign="baseline" size="LARGE" style="math">C</text>
-<text matrix="1 0 0 1 -128 -88" transformations="translations" pos="240 712" stroke="black" type="label" width="12.636" height="11.764" depth="0" valign="baseline" size="LARGE" style="math">A</text>
 <path stroke="black">
-192 640 m
-64 0 0 64 128 640 185.289 668.53 a
+316 544 m
+128.062 0 0 128.062 192 576 160 700 a
 </path>
-<text matrix="1 0 0 1 -46.8642 -61.4184" transformations="translations" pos="240 712" stroke="black" type="label" width="8.324" height="11.955" depth="0" valign="baseline" size="LARGE" style="math">\theta</text>
+<text matrix="1 0 0 1 -12 -20" transformations="translations" pos="336 576" stroke="black" type="label" width="7.895" height="11.097" depth="0" valign="baseline" size="LARGE" style="math">1</text>
+<use name="mark/disk(sx)" pos="320 576" size="normal" stroke="black"/>
+<text matrix="1 0 0 1 -160 132" transformations="translations" pos="336 576" stroke="black" type="label" width="7.895" height="11.097" depth="0" valign="baseline" size="LARGE" style="math">1</text>
+<use name="mark/disk(sx)" pos="192 704" size="normal" stroke="black"/>
 </page>
 </ipe>
