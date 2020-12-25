@@ -19,4 +19,5 @@
   "vscodeMarkdownNotes.noteCompletionConvention": "noExtension",
   "vscodeMarkdownNotes.slugifyMethod": "github-slugger",
   "editor.wordWrap": "wordWrapColumn",
+  "markdown.extension.math.enabled": true,
 }
