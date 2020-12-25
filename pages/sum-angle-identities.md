@@ -16,18 +16,16 @@ $\triangle ABC$ and $\triangle CDE$ are similar because they are both right tria
 $$
     \sin(a+b)
       = \frac{BD}{AD}
-      = \frac{EF + DH}{AD}
-    \\= \frac{EF}{AD} + \frac{DH}{AD}
-      = \frac{EF}{AE}\frac{AE}{AD} + \frac{CD}{DE}\frac{DE}{AD}
+    \\= \frac{EF + DH}{AD}
+      = \frac{EF}{AE}\frac{AE}{AD} + \frac{DH}{DE}\frac{DE}{AD}
     \\= \sin(a)\cos(b) + \cos(a)\sin(b)
 .$$
 
 $$
     \cos(a+b)
       = \frac{AB}{AD}
-      = \frac{AF - EH}{AD}
-      = \frac{AF}{AD} - \frac{EH}{AD}
-    \\= \frac{AF}{AE}\frac{AE}{AD} - \frac{EH}{DE}\frac{DE}{AD}
+    \\= \frac{AF - EH}{AD}
+      = \frac{AF}{AE}\frac{AE}{AD} - \frac{EH}{DE}\frac{DE}{AD}
     \\= \cos(a)\cos(b) - \sin(a)\sin(b)
 .$$
 
