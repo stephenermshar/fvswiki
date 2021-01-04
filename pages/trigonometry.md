@@ -4,14 +4,14 @@ Trigonometry desribes the relationships between the sides and angles of triangle
 
 ![a triangle with sides and points labeled](../assets/svg/triangle-1.svg)
 
-- $\sin \theta = \frac{\text{opposite}}{\text{hypotenuse}} = \frac{a}{c}$
-- $\csc \theta = \frac{\text{hypotenuse}}{\text{opposite}} = \frac{c}{a}$
+- $\sin \theta = \frac{\text{opposite}}{\text{hypotenuse}} = \frac{a}{c} = y$
+- $\csc \theta = \frac{\text{hypotenuse}}{\text{opposite}} = \frac{c}{a} = \frac{1}{y}$
 
-- $\cos \theta = \frac{\text{adjacent}}{\text{hypotenuse}} = \frac{b}{c}$
-- $\sec \theta = \frac{\text{hypotenuse}}{\text{adjacent}} = \frac{c}{b}$
+- $\cos \theta = \frac{\text{adjacent}}{\text{hypotenuse}} = \frac{b}{c} = x$
+- $\sec \theta = \frac{\text{hypotenuse}}{\text{adjacent}} = \frac{c}{b} = \frac{1}{x}$
 
-- $\tan \theta = \frac{\text{opposite}}{\text{adjacent}} = \frac{a}{b}$
-- $\cot \theta = \frac{\text{adjacent}}{\text{opposite}} = \frac{b}{a}$
+- $\tan \theta = \frac{\text{opposite}}{\text{adjacent}} = \frac{a}{b} = \frac{y}{x}$
+- $\cot \theta = \frac{\text{adjacent}}{\text{opposite}} = \frac{b}{a} = \frac{x}{y}$
 
 These definitions can be extended to obtuse angles, by changing the side lengths' signs when they cross the starting point.
 
