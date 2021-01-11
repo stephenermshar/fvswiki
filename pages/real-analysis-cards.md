@@ -176,7 +176,7 @@ This is a direct copy of a set of flash cards created for a real analysis class.
 ---
 
 - $A$ and $B$ separated sets
-  - $\overbar{A} \cap B = \emptyset$, $A \cap \overbar{B} = \emptyset$
+  - $\overline{A} \cap B = \emptyset$, $A \cap \overline{B} = \emptyset$
 
 ---
 
